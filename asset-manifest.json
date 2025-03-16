@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PDF-to-Google-Calendar-Event-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/PDF-to-Google-Calendar-Event-frontend/static/js/main.9954accc.js",
+    "static/js/453.e30b9ca5.chunk.js": "/PDF-to-Google-Calendar-Event-frontend/static/js/453.e30b9ca5.chunk.js",
+    "index.html": "/PDF-to-Google-Calendar-Event-frontend/index.html",
+    "main.e6c13ad2.css.map": "/PDF-to-Google-Calendar-Event-frontend/static/css/main.e6c13ad2.css.map",
+    "main.9954accc.js.map": "/PDF-to-Google-Calendar-Event-frontend/static/js/main.9954accc.js.map",
+    "453.e30b9ca5.chunk.js.map": "/PDF-to-Google-Calendar-Event-frontend/static/js/453.e30b9ca5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9954accc.js"
+  ]
+}
